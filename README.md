@@ -32,9 +32,9 @@ Frontend Web Developer with more than 3 years of experience. Expert in Html, Css
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![invision](https://img.shields.io/badge/invision-e0005a?style=for-the-badge&logo=invision&logoColor=white)
 
-### Testing
+### Code Editor
 
-![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![visualstudiocode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 ## 🔗 Links
