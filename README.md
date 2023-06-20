@@ -4,7 +4,11 @@
 
 👨‍💻 I am Alex Tey, a **Front End Web Developer**.
 
-Frontend Web Developer with more than 3 years of experience. Expert in Html, Css, Javascript, Typescript, React, Redux, Git, Github, Npm and Webpack. Strong engineering professional with an Engineering degree focused on Computer Science from the University of Holguín. Able to continually learn from senior developers. Passionate about learning new skills and eager to tackle complex problems. Expert in contributing to a highly collaborative work environment, finding solutions and determining customer satisfaction.
+Frontend web developer with one year of experience in the industry. I have a strong knowledge of HTML, CSS, and JavaScript, as well as the fundamental principles of web design and usability.
+
+During my time as a self-taught developer, I have worked on various personal and collaborative projects that have allowed me to enhance my technical skills and gain hands-on experience in developing responsive and accessible websites.
+
+I have experience using popular frameworks and libraries such as Bootstrap and jQuery, and I am familiar with version control tools like Git.
 
 ## 🛠️ Skills
 
