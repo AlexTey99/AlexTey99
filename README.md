@@ -20,6 +20,7 @@ I have experience using popular frameworks and libraries such as Bootstrap and j
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![git](https://img.shields.io/badge/git-gray?style=for-the-badge&logo=git&logoColor=f14e32)
+![jquery](https://img.shields.io/badge/jquery-4d4d4d?style=for-the-badge&logo=jquery&logoColor=7acef4)
 
 ### Development Platform
 [![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
