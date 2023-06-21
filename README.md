@@ -16,7 +16,7 @@ I have experience using popular frameworks and libraries such as Bootstrap and j
 
 ### Front-End Development
 
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![html](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![git](https://img.shields.io/badge/git-gray?style=for-the-badge&logo=git&logoColor=f14e32)
