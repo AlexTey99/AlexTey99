@@ -22,6 +22,10 @@ I have experience using popular frameworks and libraries such as Bootstrap and j
 ![git](https://img.shields.io/badge/git-gray?style=for-the-badge&logo=git&logoColor=f14e32)
 ![jquery](https://img.shields.io/badge/jquery-4d4d4d?style=for-the-badge&logo=jquery&logoColor=7acef4)
 ![API](https://img.shields.io/badge/API-1A2C51?style=for-the-badge)
+![Npm](https://img.shields.io/badge/npm-323330?style=for-the-badge&logo=npm&logoColor=#eeda7c)
+![Babel](https://img.shields.io/badge/babel-323330?style=for-the-badge&logo=babel&logoColor=#eeda7c)
+![webpack](https://img.shields.io/badge/webpack-2b3a42?style=for-the-badge&logo=webpack&logoColor=lightblue)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Development Platform
 [![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
