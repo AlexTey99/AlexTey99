@@ -34,10 +34,6 @@ Desde el 3 de marzo del 2023 e estado estudiando y realizando diferentes proyect
 
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-### Design Tools
-
-![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-![invision](https://img.shields.io/badge/invision-e0005a?style=for-the-badge&logo=invision&logoColor=white)
 
 ### Code Editor
 
