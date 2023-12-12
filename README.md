@@ -4,7 +4,9 @@
 
 👨‍💻 I am Alex Tey, a **Front End Web Developer**.
 
-Desde el 3 de marzo del 2023 e estado estudiando y realizando diferentes proyectos para aumentar mis habilidades con las tecnologias que domino
+Bienvenido/a a mi perfil de GitHub. Soy un entusiasta del desarrollo frontend y me apasiona crear soluciones innovadoras.
+
+Espero que disfrutes. Saludos.
 
 ## 🛠️ Skills
 
