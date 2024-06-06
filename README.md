@@ -1,7 +1,9 @@
 
 👨‍💻 I am Carlos Tey, a **Front End Web Developer** (specialized in **React**).
 
-Hola soy un apasionado de la programación con 2 años de experiencia autodidacta, durante los cuales he obtenido certificados, completado proyectos y realizado numerosos ejercicios en plataformas como CodeSignal y Frontend Mentor.
+Hola soy un apasionado de la programación con 2 años de experiencia autodidacta, durante los cuales he realizado varios proyectos.
+Aqui los dejo para que los difrutes.
+
 <img src='https://www.kagoya.jp/howto/wp-content/uploads/202104b02.png'>
 
 ### Languages
