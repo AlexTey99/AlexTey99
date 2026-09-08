@@ -1,7 +1,7 @@
 
 👨‍💻 I am Carlos Tey, a **Front End Web Developer** (specialized in **React**).
 
-¡Hola! Soy un apasionado de la programación con 2 años de experiencia. Durante este tiempo, he trabajado en varios proyectos que me han permitido mejorar mis habilidades y explorar diferentes áreas de desarrollo. ¡Echa un vistazo a mis proyectos en GitHub y disfruta explorando!
+¡Hola! Soy un apasionado de la programación con más de 1 año de experiencia. Durante este tiempo, he trabajado en varios proyectos que me han permitido mejorar mis habilidades y explorar diferentes áreas de desarrollo. ¡Echa un vistazo a mis proyectos en GitHub y disfruta explorando!
 
 <img src='https://www.kagoya.jp/howto/wp-content/uploads/202104b02.png'>
 
@@ -26,8 +26,3 @@
 
 ### Development Platform
 [![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-
-
-### Backend as a Service (BaaS)
-
-![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
